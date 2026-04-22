@@ -1,8 +1,8 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/schrodingers-boolean",
-  "title": "schrodingers uoolean",
-  "description": "schrodingers-boolean MCP — wraps StupidAPIs (requires X-API-Key)",
+  "title": "Schrodingers Boolean",
+  "description": "schrodingers-boolean MCP \u2014 wraps StupidAPIs (requires X-API-Key)",
   "version": "0.1.0",
   "websiteUrl": "https://pipeworx.io/packs/schrodingers-boolean",
   "repository": {
